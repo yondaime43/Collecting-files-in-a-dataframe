@@ -15,4 +15,4 @@ Schematically it looks like this:
 
 TASK
 
-To collect all the data from the ,, data '' folder into one dataframe that has the following columns: columns from the files themselves (product_id, quantity), as well as the user's name( name), and the date of these purchases (date, corresponds to the name of the folder where the folder with the user is located)
+To collect all the data from the ,, data '' folder into one dataframe that has the following columns: columns from the files themselves (product_id, quantity), as well as the user's name( name ), and the date of these purchases (date, corresponds to the name of the folder where the folder with the user is located)
